@@ -38,7 +38,7 @@ This will:
 4. Evaluate performance with accuracy and a confusion matrix.
 
 ## Results
-- Expected accuracy: **~80% or higher** (after hyperparameter tuning).
+- Expected accuracy: **~78%** (after hyperparameter tuning).
 - Confusion matrix visualization to check model performance.
 
 ## Future Improvements
