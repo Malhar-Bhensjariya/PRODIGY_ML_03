@@ -40,15 +40,3 @@ This will:
 ## Results
 - Expected accuracy: **~78%** (after hyperparameter tuning).
 - Confusion matrix visualization to check model performance.
-
-## Future Improvements
-- Experiment with different SVM kernels.
-- Use deep learning models (CNNs) for better accuracy.
-- Try alternative feature extraction methods (e.g., ORB, SIFT).
-
-## License
-This project is open-source and available for educational purposes.
-
----
-Feel free to modify and improve the model!
-
